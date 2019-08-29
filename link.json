@@ -1,8 +1,13 @@
 [
   {
-    "link":"https://github.com/patrikeh/go-deep"
+    "link":"https://github.com/patrikeh/go-deep",
+    "date":"2019-06-05"
   },
   {
-    "link":"https://github.com/domoticz/domoticz"
-  }
+    "link":"https://github.com/domoticz/domoticz",
+    "date":"2019-06-05"
+  },
+  {
+    "link":"https://broker.ru",
+    "date":"2019-08-30"
 ]
